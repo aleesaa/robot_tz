@@ -1,7 +1,7 @@
 ﻿*** Settings ***
 Library   com.peterservice.testers.ExpressionConverter
-Documentation    An example test suite documentation with *some* _formatting_.
-...              See test documentation for more documentation examples.
+Documentation    *Robot Framework* Test suite.
+...              See documentation for more information.
 
 *** Test Cases ***
 
